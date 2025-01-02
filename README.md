@@ -3,5 +3,6 @@ An ACCESS regional nested suite run over Cape kennaook and Bass Strait, to targe
 
 The nested domains might look similar to this, down to ~1 km grid spacing (using [UM_plot_domain_Cape-K](UM_plot_domain_Cape-K.ipynb) adapted from Scott Wales/Paul Gregory).
 
-![image](https://github.com/user-attachments/assets/f1f64ede-7a24-4ba3-9438-89734de9d54f)
+![image](https://github.com/user-attachments/assets/a87d7e24-5d8b-4b1d-bfc8-654aab0ced8c)
+
 
